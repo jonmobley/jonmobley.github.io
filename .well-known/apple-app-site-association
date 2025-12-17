@@ -1,0 +1,23 @@
+{
+  "appclips": {
+    "apps": [
+      "2YBTPD32DW.com.mobleypro.mobley.Force.Clip"
+    ]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2YBTPD32DW.com.mobleypro.mobley.Force"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches any URL"
+          }
+        ]
+      }
+    ]
+  }
+}
+
