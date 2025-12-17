@@ -1,0 +1,8 @@
+# GitHub Pages Jekyll configuration
+include:
+  - .well-known
+
+# Set content type for AASA file
+plugins:
+  - jekyll-redirect-from
+
